@@ -6,7 +6,7 @@ const Projects: React.FC = () => {
     {
       title: "Portfolio Website (including algorithm visualizer)",
       description: "Using react, my code for building this whole website including: home page, algorithm page, and all the components used for the website",
-      link: ""
+      link: "https://github.com/axiong48/Website/tree/main"
     },
     {
       title: "Crypto Bot",
